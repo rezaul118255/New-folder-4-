@@ -27,6 +27,7 @@ nav {
 
 nav ul {
     display: flex;
+    flex-wrap: wrap;
     list-style: none;
     gap: 30px;
 }
@@ -191,14 +192,8 @@ ul li a {
     background-color: #FF900E;
     text-align: center;
     margin: 0px 650px 100px 650px;
-    padding: 30px 30px 30px 30px;
+    padding: 30px 80px 30px 30px;
     border-radius: 10px;
-
-
-
-
-
-
 }
 
 .year {
@@ -323,3 +318,6 @@ ul li a {
 .finish {
     text-align: center;
 }
+
+/* degine finish---
+---- */
