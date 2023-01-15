@@ -138,3 +138,105 @@ ul li a {
 
 
 }
+
+/* arcitects start */
+
+.arcitects {
+    display: flex;
+    width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+}
+
+.enjoy {
+    font-size: 20px;
+    width: 470px;
+    height: 100px;
+    border-left: 5px solid rgba(255, 144, 14, 1);
+    box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.06);
+
+}
+
+.ipsum {
+    font-size: 16px;
+    color: rgba(114, 114, 114, 1);
+    height: 100px;
+    width: 470px;
+}
+
+.dexktop {
+    width: 470px;
+    height: 160px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.06);
+    border-radius: 8px;
+    margin-right: 40px;
+}
+
+.mobil {
+    margin-left: 25px;
+    margin-right: 20px;
+    color: rgba(19, 19, 19, 1);
+
+}
+
+.mobile {
+    margin-left: 25px;
+    margin-right: 20px;
+    color: rgba(114, 114, 114, 1);
+}
+
+.center {
+    background-color: #FF900E;
+    text-align: center;
+    margin: 0px 650px 100px 650px;
+    padding: 30px 30px 30px 30px;
+    border-radius: 10px;
+
+
+
+
+
+
+}
+
+.year {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.h6 {
+    color: #FFFFFF;
+}
+
+.some {
+    width: 1100px;
+    margin-left: 200px;
+}
+
+.Some-Facts {
+    color: #131313;
+    font-size: 45px;
+}
+
+.passages {
+    color: #727272;
+    font-size: 16px;
+}
+
+.icons {
+    width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.Awards {
+    height: 180px;
+    width: 170px;
+    border: 1px solid #FF900E
+}
